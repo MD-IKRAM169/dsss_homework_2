@@ -1,1 +1,1 @@
-from .dsss_Homework_2 import *
+from .dsss_homework_2 import *
